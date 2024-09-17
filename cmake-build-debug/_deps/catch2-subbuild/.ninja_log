@@ -1,0 +1,21 @@
+# ninja log v5
+0	15	1726605177449226001	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	eca84fc6c593b300
+0	15	1726605177449226001	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	eca84fc6c593b300
+16	8556	1726605185989780209	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	711eb861ccb8c68e
+16	8556	1726605185989780209	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	711eb861ccb8c68e
+8556	8594	0	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	f74254e04092c783
+8556	8594	0	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	f74254e04092c783
+8594	8608	1726605186042079787	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	2555ccd9413f9c8c
+8594	8608	1726605186042079787	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	2555ccd9413f9c8c
+8608	8621	1726605186055344911	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	a6a3fb73491f2444
+8608	8621	1726605186055344911	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	a6a3fb73491f2444
+8621	8635	1726605186069400076	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	f542b248a80c30c6
+8621	8635	1726605186069400076	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	f542b248a80c30c6
+8635	8649	1726605186083074491	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	7f7d1e5a1a12f0ff
+8635	8649	1726605186083074491	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	7f7d1e5a1a12f0ff
+8649	8662	1726605186096320948	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	61d6c0608de36b2f
+8649	8662	1726605186096320948	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	61d6c0608de36b2f
+8662	8681	1726605186114872696	CMakeFiles/catch2-populate-complete	79d3ee1a85544882
+8662	8681	1726605186114872696	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	79d3ee1a85544882
+8662	8681	1726605186114872696	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	79d3ee1a85544882
+8662	8681	1726605186114872696	/Users/adamhorvitz/Documents/GitHub/P1-Catch-Template/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	79d3ee1a85544882
